@@ -4,7 +4,12 @@ description: This resource provides problems on the topic of natural extracellul
   matrix, peptide linkages.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/1724e654504e048d167cf859fade0b5e_pset5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset5.pdf
+type: OCWFile
 uid: 1724e654-504e-048d-167c-f859fade0b5e
 ---

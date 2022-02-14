@@ -5,7 +5,12 @@ description: 'This resource provides notes on topics such as applications of hyd
   kinetics of drug diffusion through hydrogels.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/4e647931333ddef560a1b945e72ba2b1_lec10_annotated.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec10_annotated.pdf
+type: OCWFile
 uid: 4e647931-333d-def5-60a1-b945e72ba2b1
 ---
