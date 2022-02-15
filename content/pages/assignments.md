@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a2233bc1-6c13-1f34-8549-04e1aaa73780
 ---
