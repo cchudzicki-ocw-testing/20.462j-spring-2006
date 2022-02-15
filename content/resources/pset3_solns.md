@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset3_solns.pdf
-type: OCWFile
 uid: 691bbdd8-eb28-e54b-168e-9fe29e045108
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: BE462_S06_lect24annotated.pdf
-type: OCWFile
 uid: a2db0a43-f4cc-d1f0-d076-031e5b3082f8
 ---

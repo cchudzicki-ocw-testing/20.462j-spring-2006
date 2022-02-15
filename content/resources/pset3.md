@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: pset3.pdf
-type: OCWFile
 uid: b5667ce6-99cd-26ea-1128-9d3fe1828bf7
 ---

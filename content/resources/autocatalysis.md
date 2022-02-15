@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: autocatalysis.xls
-type: OCWFile
 uid: e93e9b3f-7893-c33f-69ce-21b4c5e77945
 ---

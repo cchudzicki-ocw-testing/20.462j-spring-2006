@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: charlier.xls
-type: OCWFile
 uid: 849bf7f2-5dd5-cab5-3bbf-3965b0848139
 ---

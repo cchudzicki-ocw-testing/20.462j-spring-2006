@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec4_clean.pdf
-type: OCWFile
 uid: ef4712a1-c4c5-ee91-5ff6-39a8d0d2a87a
 ---

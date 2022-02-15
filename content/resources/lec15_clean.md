@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec15_clean.pdf
-type: OCWFile
 uid: 416da1b3-6ca0-fb08-2321-06b1ada19475
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lect16_annotated.pdf
-type: OCWFile
 uid: e3a455e2-8709-0a4e-8696-acf04a3f6cfa
 ---

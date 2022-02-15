@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: gel_swelling.xls
-type: OCWFile
 uid: f53890d8-98c0-9988-ff71-624a33e1da56
 ---
