@@ -43,7 +43,7 @@ Problem Set 2 ({{% resource_link 3db386e0-b20e-5106-617c-19d33f4e3c52 "PDF" %}})
 Problem Set 3 ({{% resource_link b5667ce6-99cd-26ea-1128-9d3fe1828bf7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 691bbdd8-eb28-e54b-168e-9fe29e045108 "PDF" %}})
+({{% resource_link 691bbdd8-eb28-e54b-168e-9fe29e045108 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
