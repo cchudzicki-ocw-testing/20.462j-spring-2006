@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-462j-molecular-principles-of-biomaterials-spring-2006/60323f1a6c6ced1fcd45ea43ace107be_lect18_class.pdf
+file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/60323f1a6c6ced1fcd45ea43ace107be_lect18_class.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
