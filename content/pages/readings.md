@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the required and supplementary readings for each
+  lecture session.
 draft: false
 learning_resource_types:
 - Readings

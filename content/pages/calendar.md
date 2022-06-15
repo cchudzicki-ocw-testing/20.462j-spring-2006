@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course schedule for this course along with
+  the key dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
