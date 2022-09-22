@@ -5,6 +5,7 @@ file: /courses/20-462j-molecular-principles-of-biomaterials-spring-2006/849bf7f2
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
